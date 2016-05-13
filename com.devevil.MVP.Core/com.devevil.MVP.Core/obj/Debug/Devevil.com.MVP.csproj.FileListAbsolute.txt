@@ -1,0 +1,4 @@
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\bin\Debug\Devevil.com.MVP.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\bin\Debug\Devevil.com.MVP.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\obj\Debug\Devevil.com.MVP.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\obj\Debug\Devevil.com.MVP.pdb

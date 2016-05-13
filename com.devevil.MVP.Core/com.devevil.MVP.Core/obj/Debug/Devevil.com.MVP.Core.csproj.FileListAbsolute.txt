@@ -1,0 +1,9 @@
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\bin\Debug\Devevil.com.MVP.Core.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\bin\Debug\Devevil.com.MVP.Core.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\obj\Debug\Devevil.com.MVP.Core.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\Devevil.com.MVP\obj\Debug\Devevil.com.MVP.Core.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\Devevil.com.MVP.Core\bin\Debug\Devevil.com.MVP.Core.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\Devevil.com.MVP.Core\bin\Debug\Devevil.com.MVP.Core.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\Devevil.com.MVP.Core\obj\Debug\Devevil.com.MVP.Core.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\Devevil.com.MVP.Core\obj\Debug\Devevil.com.MVP.Core.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\Devevil.com.MVP.Core\obj\Debug\Devevil.com.MVP.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\com.devevil.MVP.Core\obj\Debug\com.devevil.MVP.csprojResolveAssemblyReference.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\com.devevil.MVP.Core\obj\Debug\Devevil.com.MVP.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\com.devevil.MVP.Core\obj\Debug\Devevil.com.MVP.Core.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\com.devevil.MVP.Core\bin\Debug\Devevil.com.MVP.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\com.devevil.MVP.Core\bin\Debug\Devevil.com.MVP.Core.pdb

@@ -1,0 +1,45 @@
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\bin\Debug\MVPExample.exe.config
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\bin\Debug\MVPExample.exe
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\bin\Debug\MVPExample.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\App.g.cs
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample_MarkupCompile.cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.g.resources
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.Properties.Resources.resources
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.csproj.GenerateResource.Cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.exe
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\MVPExample.csprojResolveAssemblyReference.cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\GestioneAccount.baml
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\obj\Debug\GestioneAccount.g.cs
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\bin\Debug\Devevil.com.MVP.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP\MVPExample\bin\Debug\Devevil.com.MVP.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\bin\Debug\MVPExample.exe.config
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.csprojResolveAssemblyReference.cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\GestioneAccount.baml
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\GestioneAccount.g.cs
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\App.g.cs
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample_MarkupCompile.cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.g.resources
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.Properties.Resources.resources
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.csproj.GenerateResource.Cache
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\bin\Debug\MVPExample.exe
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\bin\Debug\MVPExample.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\bin\Debug\Devevil.com.MVP.Core.dll
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\bin\Debug\Devevil.com.MVP.Core.pdb
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.exe
+C:\Users\pasquale\Desktop\ProgettiVS\Devevil.com.MVP.Core\MVPExample\obj\Debug\MVPExample.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\bin\Debug\MVPExample.exe.config
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.exe
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.csprojResolveAssemblyReference.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\GestioneAccount.baml
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\GestioneAccount.g.cs
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\App.g.cs
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample_MarkupCompile.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.g.resources
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.Properties.Resources.resources
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\obj\Debug\MVPExample.csproj.GenerateResource.Cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\bin\Debug\MVPExample.exe
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\bin\Debug\MVPExample.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\bin\Debug\Devevil.com.MVP.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.MVP.Core\MVPExample\bin\Debug\Devevil.com.MVP.Core.pdb
