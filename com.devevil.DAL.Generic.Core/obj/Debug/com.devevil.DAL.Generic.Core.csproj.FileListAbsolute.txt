@@ -1,0 +1,4 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Generic.Core\bin\Debug\com.devevil.DAL.Generic.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Generic.Core\bin\Debug\com.devevil.DAL.Generic.Core.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Generic.Core\obj\Debug\com.devevil.DAL.Generic.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Generic.Core\obj\Debug\com.devevil.DAL.Generic.Core.pdb

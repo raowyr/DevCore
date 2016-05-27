@@ -1,0 +1,4 @@
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Infrastructure.Core\bin\Debug\Devevil.Blog.Infrastructure.Core.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Infrastructure.Core\bin\Debug\Devevil.Blog.Infrastructure.Core.pdb
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Infrastructure.Core\obj\Debug\Devevil.Blog.Infrastructure.Core.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Infrastructure.Core\obj\Debug\Devevil.Blog.Infrastructure.Core.pdb

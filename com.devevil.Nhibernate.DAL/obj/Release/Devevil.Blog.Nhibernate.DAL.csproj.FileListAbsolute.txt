@@ -1,0 +1,17 @@
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Nhibernate.DAL.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Nhibernate.DAL.pdb
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Infrastructure.Core.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Model.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\FluentNHibernate.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Iesi.Collections.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\NHibernate.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Support.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Infrastructure.Core.pdb
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Model.pdb
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\FluentNHibernate.xml
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Iesi.Collections.xml
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\NHibernate.xml
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\bin\Release\Devevil.Blog.Support.pdb
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\obj\Release\Devevil.Blog.Nhibernate.DAL.csprojResolveAssemblyReference.cache
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\obj\Release\Devevil.Blog.Nhibernate.DAL.dll
+D:\PROGETTI\Progetti C#\BlogProject\Devevil.Blog.Nhibernate.DAL\obj\Release\Devevil.Blog.Nhibernate.DAL.pdb

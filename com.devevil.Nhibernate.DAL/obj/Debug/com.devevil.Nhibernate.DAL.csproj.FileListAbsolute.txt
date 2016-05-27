@@ -1,0 +1,1 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.Nhibernate.DAL\obj\Debug\com.devevil.Nhibernate.DAL.csprojResolveAssemblyReference.cache
