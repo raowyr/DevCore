@@ -1,0 +1,14 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\obj\Debug\com.devevil.DAL.Nhibernate.csprojResolveAssemblyReference.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\com.devevil.DAL.Nhibernate.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\com.devevil.DAL.Nhibernate.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\com.devevil.DAL.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\FluentNHibernate.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\Iesi.Collections.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\NHibernate.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\com.devevil.DAL.Core.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\FluentNHibernate.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\FluentNHibernate.xml
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\Iesi.Collections.xml
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\bin\Debug\NHibernate.xml
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\obj\Debug\com.devevil.DAL.Nhibernate.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.DAL.Nhibernate\obj\Debug\com.devevil.DAL.Nhibernate.pdb
