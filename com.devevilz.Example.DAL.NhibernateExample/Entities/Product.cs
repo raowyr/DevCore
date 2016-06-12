@@ -12,6 +12,7 @@ namespace com.devevilz.Example.DAL.NhibernateExample.Entities
         public virtual String Name { get; set; }
         public virtual Decimal Price { get; set; }
 
+        public virtual Shelf Shelf { get; set; }
         public Product() { }
 
         protected override bool IsValidState()

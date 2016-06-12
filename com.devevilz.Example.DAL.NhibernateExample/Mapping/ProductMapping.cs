@@ -10,6 +10,7 @@ namespace com.devevilz.Example.DAL.NhibernateExample.Mapping
             Id(x => x.Id).GeneratedBy.Identity();
             Map(x => x.Name);
             Map(x => x.Price);
+            References(x => x.Shelf);
         }
     }
 }

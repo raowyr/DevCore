@@ -22,13 +22,15 @@ namespace com.devevilz.Example.DAL.NhibernateExample
 
                 using (UnitOfWork uow = new UnitOfWork())
                 {
-                    ProductRepository p = new ProductRepository(uow.Current);
+                    ShelfRepository s = new ShelfRepository(uow.Current);
+                    Shelf she = new Shelf() { Code = "AAA" };
                     Product pp = new Product() { Price = 10, Name = "cd" };
-                    p.Save(pp);
+                    she.AddProduct(pp);
+                    s.Save(she);
 
                     uow.Commit();
                 }
-                    
+                Console.ReadKey();
             }
             catch (Exception e)
             { }

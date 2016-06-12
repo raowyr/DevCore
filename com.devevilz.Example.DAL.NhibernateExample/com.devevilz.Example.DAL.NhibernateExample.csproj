@@ -74,9 +74,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\Shelf.cs" />
     <Compile Include="Mapping\ProductMapping.cs" />
+    <Compile Include="Mapping\ShelfMapping.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\ShelfRepository.cs" />
     <Compile Include="Repository\ProductRepository.cs" />
   </ItemGroup>
   <ItemGroup>
