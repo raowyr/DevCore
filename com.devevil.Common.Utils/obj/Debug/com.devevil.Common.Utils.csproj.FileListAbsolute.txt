@@ -1,0 +1,4 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.Common.Utils\bin\Debug\com.devevil.Common.Utils.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.Common.Utils\bin\Debug\com.devevil.Common.Utils.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.Common.Utils\obj\Debug\com.devevil.Common.Utils.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevil.Common.Utils\obj\Debug\com.devevil.Common.Utils.pdb

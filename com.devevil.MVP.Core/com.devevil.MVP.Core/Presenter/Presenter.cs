@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace com.devevil.MVP.Presenter
 {
-    public abstract class Presenter<V> : IPresenter where V : IView
+    public abstract class Presenter<V, P> : IPresenter where V : IView<P>
+                                                       where P : IPresenter
     {
         public V View { get; set; }
 
@@ -16,6 +17,8 @@ namespace com.devevil.MVP.Presenter
             if (_view == null)
                 throw new ArgumentNullException();
             View = _view;
+
+            initView();
         }
 
         public abstract void initView();

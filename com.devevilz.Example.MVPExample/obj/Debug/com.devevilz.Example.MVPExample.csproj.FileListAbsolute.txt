@@ -1,0 +1,15 @@
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.csprojResolveAssemblyReference.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\GestioneAccount.baml
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\GestioneAccount.g.cs
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\App.g.cs
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample_MarkupCompile.cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.g.resources
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.Properties.Resources.resources
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.csproj.GenerateResource.Cache
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\bin\Debug\com.devevilz.Example.MVPExample.exe.config
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\bin\Debug\com.devevilz.Example.MVPExample.exe
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\bin\Debug\com.devevilz.Example.MVPExample.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\bin\Debug\Devevil.com.MVP.Core.dll
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\bin\Debug\Devevil.com.MVP.Core.pdb
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.exe
+D:\PROGETTI\Progetti C#\DevCore\com.devevilz.Example.MVPExample\obj\Debug\com.devevilz.Example.MVPExample.pdb

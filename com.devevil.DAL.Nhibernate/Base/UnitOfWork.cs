@@ -10,26 +10,29 @@ namespace com.devevil.DAL.Nhibernate.Base
     /// </summary>
     public sealed class UnitOfWork : IDisposable, IUnitOfWork
     {
-        private readonly ISession session;
-        private ITransaction transaction;
+        private readonly ISession _session;
+        private ITransaction _transaction;
+        private IsolationLevel _isolationLevel;
 
         public UnitOfWork()
         {
-            session = SessionManager.Instance.Session; //this may be an already open session...
-            session.FlushMode = FlushMode.Auto; //default
-            transaction = session.BeginTransaction(IsolationLevel.ReadCommitted);
+            _session = SessionManager.Instance.Session; //this may be an already open session...
+            _session.FlushMode = FlushMode.Auto; //default
+            _isolationLevel = IsolationLevel.ReadCommitted;
+            _transaction = _session.BeginTransaction(_isolationLevel);
         }
 
         public UnitOfWork(IsolationLevel isolationLevel)
         {
-            session = SessionManager.Instance.Session; //this may be an already open session...
-            session.FlushMode = FlushMode.Auto; //default
-            transaction = session.BeginTransaction(isolationLevel);
+            _session = SessionManager.Instance.Session; //this may be an already open session...
+            _session.FlushMode = FlushMode.Auto; //default
+            _isolationLevel = isolationLevel;
+            _transaction = _session.BeginTransaction(_isolationLevel);
         }
 
         public ISession Current
         {
-            get { return session; }
+            get { return _session; }
         }
 
         /// <summary>
@@ -38,11 +41,11 @@ namespace com.devevil.DAL.Nhibernate.Base
         public void Commit()
         {
             //becuase flushMode is auto, this will automatically commit when disposed
-            if (!transaction.IsActive)
+            if (!_transaction.IsActive)
                 throw new InvalidOperationException("No active transaction");
-            transaction.Commit();
+            _transaction.Commit();
             //start a new transaction
-            transaction = session.BeginTransaction(IsolationLevel.ReadCommitted);
+            _transaction = _session.BeginTransaction(_isolationLevel);
         }
 
         /// <summary>
@@ -50,14 +53,14 @@ namespace com.devevil.DAL.Nhibernate.Base
         /// </summary>
         public void Rollback()
         {
-            if (transaction.IsActive) transaction.Rollback();
+            if (_transaction.IsActive) _transaction.Rollback();
         }
 
         #region IDisposable Members
 
         public void Dispose()
         {
-            if (session != null) session.Close();
+            if (_session != null) _session.Close();
         }
 
         #endregion

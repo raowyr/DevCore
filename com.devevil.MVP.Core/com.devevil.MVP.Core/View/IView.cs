@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace com.devevil.MVP.View
 {
-    public interface IView
+    public interface IView<P> where P :IPresenter
     {
-        IPresenter Presenter { get; set; }
+        P Presenter { get; set; }
         //void showMessage(string _message);
         //void showMessage(string _message, MVPEnumerations.MessageType _msgType);
     }

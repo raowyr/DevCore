@@ -155,11 +155,32 @@ namespace com.devevil.DAL.Nhibernate
                 .BuildSessionFactory();
         }
 
-        public void BuildSchema()
+        public void Configure(Assembly assemblyMap)
+        {
+            _configuration = RestoreConfiguration();
+            if (_configuration == null)
+            {
+                _configuration = new Configuration();
+                BuildConfiguration();
+            }
+            //get the session factory
+            //_sessionFactory = Configuration.BuildSessionFactory();
+            _sessionFactory = Fluently.Configure(Configuration)
+                .Mappings(x => x.FluentMappings.AddFromAssembly(assemblyMap))
+                .BuildSessionFactory();
+        }
+
+        public void DropAndBuildSchema()
         {
             SchemaExport se = new SchemaExport(Configuration);
             se.Drop(true, true);
             se.Execute(true, true,false);
+        }
+
+        public void BuildSchema()
+        {
+            SchemaExport se = new SchemaExport(Configuration);
+            se.Execute(true, true, false);
         }
 
         internal static bool IsWeb { get { return (HttpContext.Current != null); } }
